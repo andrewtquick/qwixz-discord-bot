@@ -7,8 +7,8 @@ extensions = [
     'cogs.events',
     'cogs.admin',
     'cogs.main',
-    'cogs.load']
-
+    'cogs.load',
+    'cogs.error_handler']
 
 
 

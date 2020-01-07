@@ -1,0 +1,44 @@
+Bot:
+- Logging
+- Multithreading ???
+- App monitoring, stability
+- website ???
+- donation options
+
+Admin:
+- Add role
+- Remove role
+- Create text channel
+- Delete text channel
+- Create voice channel
+- Delete voice channel
+- Check permissions
+- Change user nickname
+- Ability to enable bot verbose command channel
+- Enable verbosity
+- Disable verbosity
+- Admin Mail
+- Add new commands
+- Delete messages
+
+Events:
+- Record all channel communications, to txt or sql(???)
+- Download all files that are uploaded
+- Capture all URL links, to txt or sql(???)
+- Capture all user names, ids and other profile information, to sql
+- Record member kicks
+- Record member bans
+- Record nick name changes
+- Record messages deleted
+- Record role changes
+
+Main:
+- Maybe a music bot
+- Templated on member join embed dm
+- Coin flipper
+- Roll dice
+- Twitch stream announcer
+- Memes ???
+- Google searcher
+-
+
