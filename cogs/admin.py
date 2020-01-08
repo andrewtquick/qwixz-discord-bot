@@ -53,11 +53,6 @@ class AdminCog(Cog):
 
         roles = ', '
 
-        for i in ctx.guild.roles:
-            roles.join(i.name)
-
-        print(roles)
-
         # await ctx.send(f'Current roles are {ctx.guild.roles}')
 
     async def add_guild_role(self, ctx: Context):
