@@ -1,3 +1,5 @@
+https://gist.github.com/OneEyedKnight/f0411f9a5e9dea23b96be0bf6dd86d2d
+
 Bot:
 - Logging
 - Multithreading ???
@@ -8,11 +10,13 @@ Bot:
 Admin:
 - Add role
 - Remove role
+- Add permissions
+- Remove permission
+- Check permissions
 - Create text channel
 - Delete text channel
 - Create voice channel
 - Delete voice channel
-- Check permissions
 - Change user nickname
 - Ability to enable bot verbose command channel
 - Enable verbosity
@@ -40,5 +44,6 @@ Main:
 - Twitch stream announcer
 - Memes ???
 - Google searcher
--
+- Select role from message
+- Introduction, multiple sections
 
